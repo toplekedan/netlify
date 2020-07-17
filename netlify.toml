@@ -1,5 +1,1 @@
-[[redirects]]
-  from = "/"
-  to = "https://detik.com"
-  status = 200
-  force = true # COMMENT: ensure that we always redirect
+/*  https://detik.com/:splat  200
